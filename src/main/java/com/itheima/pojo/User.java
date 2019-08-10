@@ -2,6 +2,7 @@ package com.itheima.pojo;
 
 public class User {
     String username;
+    Integer age;
 
     public User() {
     }
